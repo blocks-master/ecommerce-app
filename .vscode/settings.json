@@ -1,0 +1,13 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.deploySubpath": "",
+    "azureFunctions.deploySubpath": ".",
+    "azureFunctions.projectLanguage": "JavaScript",
+    "azureFunctions.projectRuntime": "~3",
+    "debug.internalConsoleOptions": "neverOpen",
+    "azureFunctions.preDeployTask": "npm prune",
+    "appService.defaultWebAppToDeploy": "/subscriptions/a788eb86-2267-4ba5-b2bb-f60454135877/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/ecommerce-app-1"
+}

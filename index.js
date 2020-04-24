@@ -18,6 +18,11 @@ app.use(productsRouter);
 app.use(adminProductsRouter);
 app.use(cartsRouter);
 
-app.listen(3000, () => {
-	console.log("Server started");
+// app.listen(3002, () => {
+// 	console.log("Server started");
+// });
+
+let port = process.env.PORT || 3002;
+app.listen(port, function() {
+	console.log("Server Has Started!");
 });

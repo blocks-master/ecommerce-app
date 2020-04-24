@@ -68,5 +68,10 @@
     "email": "test1@yahoo.com",
     "password": "b654810e133772652fce881cd2be100e2435223f6c00c15afa044d8dbf9ac6280ded1226e55818a350c01f9046beae055defa11d0cc9105f9463b512fd081c71.09c9610fb94125a5",
     "id": "12a1beab"
+  },
+  {
+    "email": "test2@ymail.com",
+    "password": "e1760604111c0a09643b18591e4d2eab5e606c0b7156a6c7fc7dcc332f8273dae776c50de30a20f618a4cde0aec888173e02a9496cc187801e873ae7a680e28d.b33975fccf92eb93",
+    "id": "9e7b3fa5"
   }
 ]
